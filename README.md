@@ -1,5 +1,5 @@
 # facebook-messenger-conversation-scraper
-Hacky little python script that converts a fb conversation to a csv file
+Hacky little python script that extracts a fb conversation from an exported html file to a csv file
 
 # how to use
 1. Make sure you have python 3 installed
